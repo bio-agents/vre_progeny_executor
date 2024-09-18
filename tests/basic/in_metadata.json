@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "unique_file_id_5f0d9cada30326.2860077",
+        "type": "file",
+        "file_path": "progeny/data/progeny_example.csv",
+        "file_type": "CSV",
+        "data_type": "expression_profile",
+        "compressed": 0,
+        "sources": [],
+        "user_id": "user_id",
+        "creation_time": {
+            "$date": {
+                "$numberLong": "1594727597000"
+            }
+        },
+        "meta_data": {
+            "size": 0,
+            "project": "PROGENy",
+            "atime": {
+                "$date": {
+                    "$numberLong": "1594727597000"
+                }
+            },
+            "parentDir": "unique_file_id_5f0d9cada30920.05450962",
+            "lastAccess": {
+                "$date": {
+                    "$numberLong": "1594727597000"
+                }
+            }
+        }
+    }
+]
